@@ -6,7 +6,7 @@ This repository is an Pytorch implemetation of the paper [Double RIS-Assisted MI
 
 ### Dependencies
 
-- [PyTorch](http://pytorch.org/)(<0.4)
+- [PyTorch](http://pytorch.org/)
 
 ### Training and Testing the model
 Follows the notebook file "DoubleRIS_CNN_autoencoder-NewSNRmodel.ipynb" to train and test the model
